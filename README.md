@@ -3,6 +3,81 @@ This is the "single source of truth" that stores all my articles.
 
 It utilizes [huantt/article-as-code](https://github.com/huantt/article-as-code) to collect, store, and sync all my articles to various platforms, including [dev.to](https://dev.to) and [hashnode.dev](https://hashnode.dev).
 
+## GitHub Action
+I have created a GitHub action in the `.github/workflows` directory that runs every 6 hours or whenever you commit to the `main` branch.
+
+## My Recent Articles
+
+<table>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1624491/thumbnail?t=2023-10-05%2017%3a19%3a54.639370597%20%2b0000%20UTC%20m%3d%2b0.180532411" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g">Showing more Article info on Daily.dev</a>
+                <div>Daily.dev is a very good extension that helps us aggregate news from several sources.  When...</div>
+                <div><i>05/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1619274/thumbnail?t=2023-10-05%2017%3a19%3a54.639370597%20%2b0000%20UTC%20m%3d%2b0.180532411" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib">[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...</a>
+                <div>In the world of content creation, each platform offers unique advantages. Publishing articles on...</div>
+                <div><i>03/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/20x-faster-golang-docker-builds-289n">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1610649/thumbnail?t=2023-10-05%2017%3a19%3a54.639370597%20%2b0000%20UTC%20m%3d%2b0.180532411" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/20x-faster-golang-docker-builds-289n">20X Faster Golang Docker Builds</a>
+                <div>According to the Go command documentation:  &#34;The go command caches build outputs for reuse in future...</div>
+                <div><i>25/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1605751/thumbnail?t=2023-10-05%2017%3a19%3a54.639370597%20%2b0000%20UTC%20m%3d%2b0.180532411" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">Why I Like Writing Technical Blogs</a>
+                <div>Requires me to delve further into the topic   It forces me to learn more deeply about the...</div>
+                <div><i>20/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
+                <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1606750/thumbnail?t=2023-10-05%2017%3a19%3a54.639370597%20%2b0000%20UTC%20m%3d%2b0.180532411" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">Making Dynamic Website Thumbnail</a>
+                <div>Look at this article&#39;s thumbnail; it&#39;s generated dynamically when this post receives new reactions or...</div>
+                <div><i>21/09/2023</i></div>
+            </td>
+        </tr>
+</table>
+
+<div align="right">
+
+*Updated at: 2023-10-05T17:19:54Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+
+</div>
+
+
 ## Run Locally
 The `docker-compose.yml` file helps us run the flow locally.
 
@@ -17,5 +92,13 @@ Run the following command:
 docker-compose up
 ```
 
-## GitHub Action
-I have created a GitHub action in the `.github/workflows` directory that runs every 6 hours or whenever you commit to the `main` branch.
+## Sequence Diagram
+```mermaid
+sequenceDiagram
+This repo ->> Dev.to: Get articles
+Dev.to -->> This repo: Articles
+This repo ->> This repo: Store articles as code
+This repo ->> Dev.to: Sync articles
+This repo ->> Hashnode.dev: Sync articles
+This repo ->> Github: Commit
+```
