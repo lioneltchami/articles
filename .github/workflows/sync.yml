@@ -19,7 +19,7 @@ jobs:
         run: export PATH=$PATH:$(go env GOPATH)/bin
       - name: Install
         run: go install github.com/huantt/article-as-code@latest
-      - name: Collect
+      - name: Collect from Dev
         run: |
           article-as-code collect \
           --username=${{ secrets.DEVTO_USERNAME }} \
@@ -33,6 +33,13 @@ jobs:
           --auth-token=${{ secrets.DEVTO_TOKEN }} \
           --article-folder=articles \
           --destination="dev.to"
+      - name: Collect from Hashnode
+        run: |
+          article-as-code collect \
+          --username=${{ secrets.HASHNODE_USERNAME }} \
+          --article-folder=articles \
+          --rps=2 \
+          --article-folder=articles
       - name: Sync to hashnode.dev
         run: |
           article-as-code sync \
