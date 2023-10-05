@@ -11,69 +11,69 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1624491/thumbnail?t=2023-10-05%2017%3a19%3a54.639370597%20%2b0000%20UTC%20m%3d%2b0.180532411" alt="thumbnail">
+                <a href="https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1581112/thumbnail?t=2023-10-05%2017%3a31%3a07.26272598%20%2b0000%20UTC%20m%3d%2b0.170025021" alt="thumbnail">
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g">Showing more Article info on Daily.dev</a>
-                <div>Daily.dev is a very good extension that helps us aggregate news from several sources.  When...</div>
-                <div><i>05/10/2023</i></div>
+                <a href="https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c">How Netflix Uses the Cloud - AWS</a>
+                <div>How they Use AWS Services   Binge-watching 🍿has become more and more of a phenomena. Netflix...</div>
+                <div><i>27/08/2023</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1619274/thumbnail?t=2023-10-05%2017%3a19%3a54.639370597%20%2b0000%20UTC%20m%3d%2b0.180532411" alt="thumbnail">
+                <a href="https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1582032/thumbnail?t=2023-10-05%2017%3a31%3a07.26272598%20%2b0000%20UTC%20m%3d%2b0.170025021" alt="thumbnail">
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib">[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...</a>
-                <div>In the world of content creation, each platform offers unique advantages. Publishing articles on...</div>
-                <div><i>03/10/2023</i></div>
+                <a href="https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9">Every Project Deserves its CI/CD pipeline, no matter how small</a>
+                <div>TL;DR   In today&#39;s tech industry, setting up a CI/CD pipeline is quite easy. Creating a...</div>
+                <div><i>28/08/2023</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/20x-faster-golang-docker-builds-289n">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1610649/thumbnail?t=2023-10-05%2017%3a19%3a54.639370597%20%2b0000%20UTC%20m%3d%2b0.180532411" alt="thumbnail">
+                <a href="https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1574302/thumbnail?t=2023-10-05%2017%3a31%3a07.26272598%20%2b0000%20UTC%20m%3d%2b0.170025021" alt="thumbnail">
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/20x-faster-golang-docker-builds-289n">20X Faster Golang Docker Builds</a>
-                <div>According to the Go command documentation:  &#34;The go command caches build outputs for reuse in future...</div>
-                <div><i>25/09/2023</i></div>
+                <a href="https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174">Create your first Web-app using ChatGPT</a>
+                <div>Introduction   Language translation is essential in our globalized world, bridging language...</div>
+                <div><i>21/08/2023</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1605751/thumbnail?t=2023-10-05%2017%3a19%3a54.639370597%20%2b0000%20UTC%20m%3d%2b0.180532411" alt="thumbnail">
+                <a href="https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1545036/thumbnail?t=2023-10-05%2017%3a31%3a07.26272598%20%2b0000%20UTC%20m%3d%2b0.170025021" alt="thumbnail">
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">Why I Like Writing Technical Blogs</a>
-                <div>Requires me to delve further into the topic   It forces me to learn more deeply about the...</div>
-                <div><i>20/09/2023</i></div>
+                <a href="https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj">LocalStack: Emulate AWS Services for Local Development &amp; Testing</a>
+                <div>It can be time-consuming, difficult, and even dangerous to create and test cloud-based apps in a...</div>
+                <div><i>22/07/2023</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px">
-                <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1606750/thumbnail?t=2023-10-05%2017%3a19%3a54.639370597%20%2b0000%20UTC%20m%3d%2b0.180532411" alt="thumbnail">
+                <a href="https://dev.to/softwaresennin/k8s-quickstart-helm-566o">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1573621/thumbnail?t=2023-10-05%2017%3a31%3a07.26272598%20%2b0000%20UTC%20m%3d%2b0.170025021" alt="thumbnail">
                 </a>
             </td>
             <td>
-                <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">Making Dynamic Website Thumbnail</a>
-                <div>Look at this article&#39;s thumbnail; it&#39;s generated dynamically when this post receives new reactions or...</div>
-                <div><i>21/09/2023</i></div>
+                <a href="https://dev.to/softwaresennin/k8s-quickstart-helm-566o">K8S Quickstart &amp; Helm</a>
+                <div>Today, Kubernetes becomes a must for DevOps Engineers, SRE and others for orchestrating containers....</div>
+                <div><i>20/08/2023</i></div>
             </td>
         </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2023-10-05T17:19:54Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-10-05T17:31:07Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
