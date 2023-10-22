@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1642194/thumbnail?t=2023-10-22%2001%3a31%3a13.90377352%20%2b0000%20UTC%20m%3d%2b0.245580730" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j">Thank you so much everyone!</a>
+                <div>Hi fam, I&#39;m so excited to announce that I&#39;ve reached 30,000 views and 6K&#43; followers! This is such a...</div>
+                <div><i>21/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1581112/thumbnail?t=2023-10-21%2018%3a25%3a00.255940354%20%2b0000%20UTC%20m%3d%2b0.157819261" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1581112/thumbnail?t=2023-10-22%2001%3a31%3a13.90377352%20%2b0000%20UTC%20m%3d%2b0.245580730" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1582032/thumbnail?t=2023-10-21%2018%3a25%3a00.255940354%20%2b0000%20UTC%20m%3d%2b0.157819261" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1582032/thumbnail?t=2023-10-22%2001%3a31%3a13.90377352%20%2b0000%20UTC%20m%3d%2b0.245580730" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1574302/thumbnail?t=2023-10-21%2018%3a25%3a00.255940354%20%2b0000%20UTC%20m%3d%2b0.157819261" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1574302/thumbnail?t=2023-10-22%2001%3a31%3a13.90377352%20%2b0000%20UTC%20m%3d%2b0.245580730" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/aws-builders/localstack-emulate-aws-services-for-local-development-testing-eoj">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1545036/thumbnail?t=2023-10-21%2018%3a25%3a00.255940354%20%2b0000%20UTC%20m%3d%2b0.157819261" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1545036/thumbnail?t=2023-10-22%2001%3a31%3a13.90377352%20%2b0000%20UTC%20m%3d%2b0.245580730" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -57,23 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>22/07/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/softwaresennin/k8s-quickstart-helm-566o">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1573621/thumbnail?t=2023-10-21%2018%3a25%3a00.255940354%20%2b0000%20UTC%20m%3d%2b0.157819261" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/softwaresennin/k8s-quickstart-helm-566o">K8S Quickstart &amp; Helm</a>
-                <div>Today, Kubernetes becomes a must for DevOps Engineers, SRE and others for orchestrating containers....</div>
-                <div><i>20/08/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2023-10-21T18:25:00Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2023-10-22T01:31:13Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
