@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/devcloudninjas/devops-from-0-to-hero-for-freshers-3mj4">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2045502/thumbnail?t=2024-10-22%2006%3a34%3a55.637661749%20%2b0000%20UTC%20m%3d%2b0.220458094" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/devcloudninjas/devops-from-0-to-hero-for-freshers-3mj4">DevOps from 0 to Hero - for Freshers</a>
+                <div>Introduction   DevOps is a transformative culture and set of practices that bring together...</div>
+                <div><i>20/10/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/softwaresennin/deploying-django-application-on-aws-with-terraform-1j7e">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1807518/thumbnail?t=2024-10-22%2001%3a53%3a49.264380605%20%2b0000%20UTC%20m%3d%2b0.111800524" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1807518/thumbnail?t=2024-10-22%2006%3a34%3a55.637661749%20%2b0000%20UTC%20m%3d%2b0.220458094" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1642194/thumbnail?t=2024-10-22%2001%3a53%3a49.264380605%20%2b0000%20UTC%20m%3d%2b0.111800524" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1642194/thumbnail?t=2024-10-22%2006%3a34%3a55.637661749%20%2b0000%20UTC%20m%3d%2b0.220458094" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1581112/thumbnail?t=2024-10-22%2001%3a53%3a49.264380605%20%2b0000%20UTC%20m%3d%2b0.111800524" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1581112/thumbnail?t=2024-10-22%2006%3a34%3a55.637661749%20%2b0000%20UTC%20m%3d%2b0.220458094" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1582032/thumbnail?t=2024-10-22%2001%3a53%3a49.264380605%20%2b0000%20UTC%20m%3d%2b0.111800524" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1582032/thumbnail?t=2024-10-22%2006%3a34%3a55.637661749%20%2b0000%20UTC%20m%3d%2b0.220458094" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -57,23 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>28/08/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1574302/thumbnail?t=2024-10-22%2001%3a53%3a49.264380605%20%2b0000%20UTC%20m%3d%2b0.111800524" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/softwaresennin/create-your-first-web-app-using-chatgpt-2174">Create your first Web-app using ChatGPT</a>
-                <div>Introduction   Language translation is essential in our globalized world, bridging language...</div>
-                <div><i>21/08/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-10-22T01:53:49Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-10-22T06:34:55Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
