@@ -11,8 +11,20 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
 <table>
         <tr>
             <td width="300px">
+                <a href="https://dev.to/devcloudninjas/end-to-end-cicd-pipeline-using-github-actions-for-android-application-36i5">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2155560/thumbnail?t=2024-12-16%2002%3a06%3a01.014772375%20%2b0000%20UTC%20m%3d%2b0.150640819" alt="thumbnail">
+                </a>
+            </td>
+            <td>
+                <a href="https://dev.to/devcloudninjas/end-to-end-cicd-pipeline-using-github-actions-for-android-application-36i5">End to End CI/CD pipeline using GitHub Actions for Android...</a>
+                <div>In this article, you will get a brief idea about how to create an End to End CI/CD Pipeline using...</div>
+                <div><i>13/12/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px">
                 <a href="https://dev.to/devcloudninjas/devops-from-0-to-hero-for-freshers-3mj4">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2045502/thumbnail?t=2024-12-15%2018%3a34%3a01.365091989%20%2b0000%20UTC%20m%3d%2b0.055774711" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/2045502/thumbnail?t=2024-12-16%2002%3a06%3a01.014772375%20%2b0000%20UTC%20m%3d%2b0.150640819" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -24,7 +36,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/softwaresennin/deploying-django-application-on-aws-with-terraform-1j7e">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1807518/thumbnail?t=2024-12-15%2018%3a34%3a01.365091989%20%2b0000%20UTC%20m%3d%2b0.055774711" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1807518/thumbnail?t=2024-12-16%2002%3a06%3a01.014772375%20%2b0000%20UTC%20m%3d%2b0.150640819" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -36,7 +48,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/softwaresennin/thank-you-so-much-everyone-p7j">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1642194/thumbnail?t=2024-12-15%2018%3a34%3a01.365091989%20%2b0000%20UTC%20m%3d%2b0.055774711" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1642194/thumbnail?t=2024-12-16%2002%3a06%3a01.014772375%20%2b0000%20UTC%20m%3d%2b0.150640819" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -48,7 +60,7 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
         <tr>
             <td width="300px">
                 <a href="https://dev.to/aws-builders/how-netflix-uses-the-cloud-aws-191c">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1581112/thumbnail?t=2024-12-15%2018%3a34%3a01.365091989%20%2b0000%20UTC%20m%3d%2b0.055774711" alt="thumbnail">
+                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1581112/thumbnail?t=2024-12-16%2002%3a06%3a01.014772375%20%2b0000%20UTC%20m%3d%2b0.150640819" alt="thumbnail">
                 </a>
             </td>
             <td>
@@ -57,23 +69,11 @@ I have created a GitHub action in the `.github/workflows` directory that runs ev
                 <div><i>27/08/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px">
-                <a href="https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9">
-                    <img src="https://dynamic-thumbnail-dev-to.vercel.app/article/1582032/thumbnail?t=2024-12-15%2018%3a34%3a01.365091989%20%2b0000%20UTC%20m%3d%2b0.055774711" alt="thumbnail">
-                </a>
-            </td>
-            <td>
-                <a href="https://dev.to/aws-builders/every-project-deserves-its-cicd-pipeline-no-matter-how-small-19j9">Every Project Deserves its CI/CD pipeline, no matter how small</a>
-                <div>TL;DR   In today&#39;s tech industry, setting up a CI/CD pipeline is quite easy. Creating a...</div>
-                <div><i>28/08/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 <div align="right">
 
-*Updated at: 2024-12-15T18:34:01Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
+*Updated at: 2024-12-16T02:06:01Z - by **[huantt/article-listing](https://github.com/huantt/article-listing)***
 
 </div>
 
